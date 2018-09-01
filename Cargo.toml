@@ -1,0 +1,7 @@
+[package]
+name = "monolopy"
+version = "0.1.0"
+authors = ["Josh <josh@elem14.tech>"]
+
+[dependencies]
+rand = "0.5.5"
